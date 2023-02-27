@@ -144,7 +144,7 @@ const removeReaction = (req, res) => {
 
 module.exports = {
     getThoughts,
-    getSingleThought,
+    getOneThought,
     createThought,
     updateThought,
     deleteThought,
